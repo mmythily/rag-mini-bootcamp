@@ -22,6 +22,10 @@ Understanding Naive RAG architecture is the first step towards understanding mor
 └── workshop_code  # The code you will edit in the tutorials
 ```
 
+# References
+- [Slides](https://docs.google.com/presentation/d/1VCQxFWGDNdveavDsrrqV4d8aUVvF154eXVlno4gVCOU/)
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
+
 # Dev Machine Setup
 
 ## Install Docker
